@@ -126,8 +126,8 @@ let users = [
 //         console.log(user);
 //     }
 
-// for (const u of users )
-//      if (!u .status ) {
+// for (const user of users )
+//      if (!user .status ) {
 //         console.log(u);
 //     }
 for (const user of users)
